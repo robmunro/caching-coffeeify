@@ -12,7 +12,7 @@
   },
   "homepage": "https://github.com/thlorenz/caching-coffeeify",
   "dependencies": {
-    "coffeeify": "~0.5.2",
+    "coffeeify": "~0.6.0",
     "through": "~2.3.4"
   },
   "devDependencies": {
